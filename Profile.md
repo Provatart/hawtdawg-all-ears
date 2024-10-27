@@ -1,2 +1,3 @@
 profile file
-added skills
+
+added more skills by edison
