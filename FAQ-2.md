@@ -1,1 +1,1 @@
-anither faq file created and edited by addison in sangite branch
+another faq file created and edited by addison in sangite branch
